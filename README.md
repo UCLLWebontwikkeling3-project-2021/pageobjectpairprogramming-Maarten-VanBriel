@@ -1,5 +1,5 @@
 # pageobjectpairprogramming-Maarten-VanBriel
-pageobjectpairprogramming-Maarten-VanBriel created by GitHub Classroom
+Story 7
 voor login:
   userid: admin
   password: t
